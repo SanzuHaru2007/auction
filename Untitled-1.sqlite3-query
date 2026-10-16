@@ -1,0 +1,4 @@
+-- database: c:\Users\vasse\OneDrive\Desktop\python lvl3\aukcion\movie.db
+
+SELECT * FROM movies;
+
